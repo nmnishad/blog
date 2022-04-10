@@ -12,11 +12,11 @@ understand this concept.
 
 ## Members:
 
-* Shamla Zarook
-* Sharmika
-* Aslam
-* Nishad  
-* Thakshila
+1. Shamla Zarook
+2. Sharmika
+3. Aslam
+4. Nishad  
+5. Thakshila
 
 You can use the [editor on GitHub](https://github.com/TeamDataBite/blog/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
